@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>S. No.</b></td><td class=xl24 width=64 ><b>Student Name</b></td><td class=xl24 width=64 ><b>Stream</b></td><td class=xl24 width=64 ><b>Year</b></td><td class=xl24 width=64 ><b>Father Name</b></td><td class=xl24 width=64 ><b>Otional Subject</b></td><td class=xl24 width=64 ><b>Registration Year</b></td><td class=xl24 width=64 ><b>Category</b></td><td class=xl24 width=64 ><b>BPL</b></td><td class=xl24 width=64 ><b>STD Code</b></td><td class=xl24 width=64 ><b>Phone No.</b></td><td class=xl24 width=64 ><b>Mobile No.</b></td><td class=xl24 width=64 ><b>Previous class</b></td><td class=xl24 width=64 ><b>Previous class Passing Year</b></td><td class=xl24 width=64 ><b>Commerce/Arts/Science</b></td><td class=xl24 width=64 ><b>Obtain Marks in Previous Class</b></td><td class=xl24 width=64 ><b>Total Marks</b></td><td class=xl24 width=64 ><b>Percentage Of Previous Class</b></td><td class=xl24 width=64 ><b>Board Name</b></td><td class=xl24 width=64 ><b>Date</b></td></tr><tr><td class=xl24 width=64 >1</td><td class=xl24 width=64 ><span>vivek modi</span></td><td class=xl24 width=64 ><span>2</span></td><td class=xl24 width=64 ><span>13</span></td><td class=xl24 width=64 ><span>manohar lal modi</span></td><td class=xl24 width=64 ><span>ABST,B & FM,Computer Application</span></td><td class=xl24 width=64 ><span style="text-align:right">2016-2017</span></td><td class=xl24 width=64 ><span>gen</span></td><td class=xl24 width=64 ><span>n</span></td><td class=xl24 width=64 ><span style="text-align:right"> 0151</span></td><td class=xl24 width=64 ><span style="text-align:right">2234376</span></td><td class=xl24 width=64 ><span style="text-align:right">9024555623</span></td><td class=xl24 width=64 ><span>12</span></td><td class=xl24 width=64 ><span style="text-align:right">2016</span></td><td class=xl24 width=64 ><span>commerce</span></td><td class=xl24 width=64 ><span style="text-align:right">500</span></td><td class=xl24 width=64 ><span style="text-align:right">1000</span></td><td class=xl24 width=64 ><span style="text-align:right">50</span></td><td class=xl24 width=64 ><span style="text-align:right">RBSE</span></td><td class=xl24 width=64 ><span style="text-align:right">2017-01-30</span></td></tr><tr><td class=xl24 width=64 >2</td><td class=xl24 width=64 ><span>ramnaresh soni</span></td><td class=xl24 width=64 ><span>2</span></td><td class=xl24 width=64 ><span>13</span></td><td class=xl24 width=64 ><span>ramesh soni</span></td><td class=xl24 width=64 ><span>ABST,B & FM,B.M.</span></td><td class=xl24 width=64 ><span style="text-align:right">2016-2017</span></td><td class=xl24 width=64 ><span>obc</span></td><td class=xl24 width=64 ><span>y</span></td><td class=xl24 width=64 ><span style="text-align:right"> 0151</span></td><td class=xl24 width=64 ><span style="text-align:right">4564456</span></td><td class=xl24 width=64 ><span style="text-align:right">7665666933</span></td><td class=xl24 width=64 ><span>12</span></td><td class=xl24 width=64 ><span style="text-align:right">2015</span></td><td class=xl24 width=64 ><span>commerce</span></td><td class=xl24 width=64 ><span style="text-align:right">300</span></td><td class=xl24 width=64 ><span style="text-align:right">600</span></td><td class=xl24 width=64 ><span style="text-align:right">50</span></td><td class=xl24 width=64 ><span style="text-align:right">CBSE</span></td><td class=xl24 width=64 ><span style="text-align:right">2017-01-30</span></td></tr><tr><td class=xl24 width=64 >3</td><td class=xl24 width=64 ><span>Raj Verma</span></td><td class=xl24 width=64 ><span>2</span></td><td class=xl24 width=64 ><span>13</span></td><td class=xl24 width=64 ><span>suresh</span></td><td class=xl24 width=64 ><span>ABST,B & FM,Computer Application</span></td><td class=xl24 width=64 ><span style="text-align:right">2016-2017</span></td><td class=xl24 width=64 ><span>obc</span></td><td class=xl24 width=64 ><span>n</span></td><td class=xl24 width=64 ><span style="text-align:right"> 0151</span></td><td class=xl24 width=64 ><span style="text-align:right">8465654</span></td><td class=xl24 width=64 ><span style="text-align:right">646546468</span></td><td class=xl24 width=64 ><span>12</span></td><td class=xl24 width=64 ><span style="text-align:right">2016</span></td><td class=xl24 width=64 ><span>science</span></td><td class=xl24 width=64 ><span style="text-align:right">500</span></td><td class=xl24 width=64 ><span style="text-align:right">1000</span></td><td class=xl24 width=64 ><span style="text-align:right">50</span></td><td class=xl24 width=64 ><span style="text-align:right">RBSE</span></td><td class=xl24 width=64 ><span style="text-align:right">2017-01-30</span></td></tr></table></body></html>

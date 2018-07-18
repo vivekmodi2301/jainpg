@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family:arial;
+}
+body,nav,ul,li,h1,h3,h2{
+	margin:0;
+	padding:0;
+	}
+	body{
+		background-color:#aaa;
+	}
+a{
+	text-decoration:none;
+}
+#rajesh_wrapper{
+		width:1200px;
+		margin:0 auto;
+		background-color:#fff;
+	}
+	
+#rajesh_wrapper>header{
+	
+	width:inherit;
+	background-color:#020;
+	min-height:150px;
+	
+}
+#rajesh_wrapper>header>div
+{
+	min-height:110px;
+	}
+#rajesh_wrapper>header>nav	
+{
+	background-color:#900;
+	}
+#rajesh_wrapper>header>nav{
+overflow:auto;	
+}
+#rajesh_wrapper>header>nav>ul{
+	list-style:none;
+	float:left;
+	min-height:40px;
+	
+}
+
+#rajesh_wrapper>header>nav>ul>li{
+	float:left;
+	background-color:#080;
+	min-height:inherit;
+	line-height:35px;
+	width:70px;
+	text-align:center;
+	margin:2px;
+	border-radius:5px;
+}
+#rajesh_wrapper>header>nav>ul>li>a{
+	color:#eef;
+	text-shadow:2px 2px 3px #040;
+	
+}
+
+#rajesh_wrapper>header>nav>ul>li:hover>a,#rajesh_wrapper>header>nav>ul>li#rajesh_menu_active>a{
+	color:#004;
+	text-shadow:1px 1px 2px #eef;
+	
+}
+#rajesh_wrapper>section{
+
+	width:inherit;
+	margin:0 auto;
+	background-color:#fff;
+	overflow:auto;
+	min-height:500px;}
+#rajesh_wrapper>section>aside,#rajesh_wrapper>section>#rajesh_contant{
+	float:right;
+	min-height:inherit;
+	margin:0 5px;
+}
+#rajesh_wrapper>section>aside{
+	border-left:1px solid #ded;
+	width:250px;
+}
+#rajesh_wrapper>footer{
+	width:100%;
+	background-color:#002;
+	min-height:40px;
+	text-align:center;
+	line-height:40px;
+}
+#rajesh_wrapper>footer>h3{
+	color:#fff;
+	text-shadow:1px 1px 1px #0e0;
+}

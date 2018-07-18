@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	padding:0px;	
+}
+.main{
+	width:100%;
+	height:100%;	
+}
+.main .header{
+	height:60px;
+	font-size:50px;
+	color:red;
+	text-align:center;
+	background-color:#900;
+}
+.main .menu{
+	height:30px;
+	font-size:20px;
+	color:#006;
+	background-color:#9FC;
+}
+.main .menu ul li{
+	float:left;
+	padding-left:15px;
+	list-style:none;	
+}
+.main .menu ul li a{
+	text-decoration:none;	
+}
+.main .footer{
+	height:40px;
+	font-size:20px;
+	color:red;
+	text-align:center;
+	background-color:#900;
+}
